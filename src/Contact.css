@@ -1,0 +1,13 @@
+.form-group input,
+.form-group textarea {
+  width: 100%;
+}
+
+.form-group input[type="text"] {
+  display: inline-block;
+  width: 50%;
+}
+
+.form-group textarea {
+  height: 100px;
+}
