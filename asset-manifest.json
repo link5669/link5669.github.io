@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.0c002136.css",
-    "main.js": "/static/js/main.dff1e199.js",
+    "main.js": "/static/js/main.8d94add0.js",
     "static/media/SHP-T04v1 M04v3 Brood and Bruder.wav": "/static/media/SHP-T04v1 M04v3 Brood and Bruder.66201b39a5626c409d0c.wav",
     "static/media/SHP-T02v1 M02v3 Bubbe Careful Now.wav": "/static/media/SHP-T02v1 M02v3 Bubbe Careful Now.8344d905ce2cebdcacf8.wav",
     "static/media/SHP-T03v1 M03v3 Here Tate, Gone Tomorrow.wav": "/static/media/SHP-T03v1 M03v3 Here Tate, Gone Tomorrow.e858dd29bf92e8c110ca.wav",
@@ -22,10 +22,10 @@
     "static/media/Apple_Music_Icon_wht_sm_073120.svg": "/static/media/Apple_Music_Icon_wht_sm_073120.04c837e40d39d7d0401ee363db8dd398.svg",
     "index.html": "/index.html",
     "main.0c002136.css.map": "/static/css/main.0c002136.css.map",
-    "main.dff1e199.js.map": "/static/js/main.dff1e199.js.map"
+    "main.8d94add0.js.map": "/static/js/main.8d94add0.js.map"
   },
   "entrypoints": [
     "static/css/main.0c002136.css",
-    "static/js/main.dff1e199.js"
+    "static/js/main.8d94add0.js"
   ]
 }
