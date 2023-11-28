@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.0c002136.css",
-    "main.js": "/static/js/main.78a88e48.js",
+    "main.css": "/static/css/main.f5818777.css",
+    "main.js": "/static/js/main.3ed1149f.js",
     "static/media/SHP-T04v1 M04v3 Brood and Bruder.wav": "/static/media/SHP-T04v1 M04v3 Brood and Bruder.66201b39a5626c409d0c.wav",
     "static/media/SHP-T02v1 M02v3 Bubbe Careful Now.wav": "/static/media/SHP-T02v1 M02v3 Bubbe Careful Now.8344d905ce2cebdcacf8.wav",
     "static/media/SHP-T03v1 M03v3 Here Tate, Gone Tomorrow.wav": "/static/media/SHP-T03v1 M03v3 Here Tate, Gone Tomorrow.e858dd29bf92e8c110ca.wav",
@@ -11,7 +11,7 @@
     "static/media/STL+Album+Cover.png": "/static/media/STL+Album+Cover.8638405e84891bdfdc6d.png",
     "static/media/DND+NRS+Album+Cover.png": "/static/media/DND+NRS+Album+Cover.e70b1346e49990e56dc7.png",
     "static/media/STL+DEMO+M10+At+Shit_s+End.mp3": "/static/media/STL+DEMO+M10+At+Shit_s+End.96bee73dd70b4062311a.mp3",
-    "static/media/SHP_Soundtrack_Preview_v1.mp3": "/static/media/SHP_Soundtrack_Preview_v1.20648f3b24e23cef2e64.mp3",
+    "static/media/SHP_Soundtrack_Preview_v2.mp3": "/static/media/SHP_Soundtrack_Preview_v2.20648f3b24e23cef2e64.mp3",
     "static/media/back.jpg": "/static/media/back.032d9fea183bc61d07e1.jpg",
     "static/media/DND+ELM+Album+Cover.jpeg": "/static/media/DND+ELM+Album+Cover.b4b238a49e8ac02fe86e.jpeg",
     "static/media/marc_yu.jpeg": "/static/media/marc_yu.2aa35e4a782d9a8ef23a.jpeg",
@@ -21,11 +21,11 @@
     "static/media/Apple_Music_Icon_blk_sm_073120.svg": "/static/media/Apple_Music_Icon_blk_sm_073120.84c25dd7f303dfc2ede9fcbe5368bf72.svg",
     "static/media/Apple_Music_Icon_wht_sm_073120.svg": "/static/media/Apple_Music_Icon_wht_sm_073120.04c837e40d39d7d0401ee363db8dd398.svg",
     "index.html": "/index.html",
-    "main.0c002136.css.map": "/static/css/main.0c002136.css.map",
-    "main.78a88e48.js.map": "/static/js/main.78a88e48.js.map"
+    "main.f5818777.css.map": "/static/css/main.f5818777.css.map",
+    "main.3ed1149f.js.map": "/static/js/main.3ed1149f.js.map"
   },
   "entrypoints": [
-    "static/css/main.0c002136.css",
-    "static/js/main.78a88e48.js"
+    "static/css/main.f5818777.css",
+    "static/js/main.3ed1149f.js"
   ]
 }
