@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.f5818777.css",
-    "main.js": "/static/js/main.1e222340.js",
+    "main.js": "/static/js/main.c5691ba6.js",
     "static/media/1. A Bard's Tale (Library Music : Viking Metal, Action).wav": "/static/media/1. A Bard's Tale (Library Music : Viking Metal, Action).144d34d49f055c7ceea1.wav",
     "static/media/PTPS ST04v1 M04v2 Wizard HQ Level.wav": "/static/media/PTPS ST04v1 M04v2 Wizard HQ Level.8852c8823f6395026a0a.wav",
     "static/media/PTPS ST03v1 M03v2 Factory Sewer Level.wav": "/static/media/PTPS ST03v1 M03v2 Factory Sewer Level.503d37dae15e24f04bec.wav",
@@ -38,10 +38,10 @@
     "static/media/Apple_Music_Icon_wht_sm_073120.svg": "/static/media/Apple_Music_Icon_wht_sm_073120.04c837e40d39d7d0401ee363db8dd398.svg",
     "index.html": "/index.html",
     "main.f5818777.css.map": "/static/css/main.f5818777.css.map",
-    "main.1e222340.js.map": "/static/js/main.1e222340.js.map"
+    "main.c5691ba6.js.map": "/static/js/main.c5691ba6.js.map"
   },
   "entrypoints": [
     "static/css/main.f5818777.css",
-    "static/js/main.1e222340.js"
+    "static/js/main.c5691ba6.js"
   ]
 }
