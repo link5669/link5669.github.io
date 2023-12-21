@@ -1,7 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.f5818777.css",
-    "main.js": "/static/js/main.3c7f571f.js",
+    "main.css": "/static/css/main.95c579b6.css",
+    "main.js": "/static/js/main.968b743c.js",
+    "static/media/Stalling.png": "/static/media/Stalling.7e0bfbd48c3e5757a824.png",
     "static/media/1. A Bard's Tale (Library Music : Viking Metal, Action).wav": "/static/media/1. A Bard's Tale (Library Music : Viking Metal, Action).144d34d49f055c7ceea1.wav",
     "static/media/PTPS ST04v1 M04v2 Wizard HQ Level.wav": "/static/media/PTPS ST04v1 M04v2 Wizard HQ Level.8852c8823f6395026a0a.wav",
     "static/media/PTPS ST03v1 M03v2 Factory Sewer Level.wav": "/static/media/PTPS ST03v1 M03v2 Factory Sewer Level.503d37dae15e24f04bec.wav",
@@ -11,6 +12,7 @@
     "static/media/PTPS ST01v1 M01v4 Main Menu.wav": "/static/media/PTPS ST01v1 M01v4 Main Menu.687be976c71b0732f360.wav",
     "static/media/SHP-T04v1 M04v3 Brood and Bruder.wav": "/static/media/SHP-T04v1 M04v3 Brood and Bruder.66201b39a5626c409d0c.wav",
     "static/media/SHP-T02v1 M02v3 Bubbe Careful Now.wav": "/static/media/SHP-T02v1 M02v3 Bubbe Careful Now.8344d905ce2cebdcacf8.wav",
+    "static/media/A Bard's Tale Norse.png": "/static/media/A Bard's Tale Norse.6431daf6480e8dff3307.png",
     "static/media/5. Stalling (Musical Theater : Folk Cabaret).wav": "/static/media/5. Stalling (Musical Theater : Folk Cabaret).8ad66f1027805144bf1f.wav",
     "static/media/8. Shpilkes (Short Film : Psychological Thriller).wav": "/static/media/8. Shpilkes (Short Film : Psychological Thriller).e858dd29bf92e8c110ca.wav",
     "static/media/SHP-T03v1 M03v3 Here Tate, Gone Tomorrow.wav": "/static/media/SHP-T03v1 M03v3 Here Tate, Gone Tomorrow.e858dd29bf92e8c110ca.wav",
@@ -25,23 +27,30 @@
     "static/media/9. Potion Pushas (Video Game : Fantasy Noir Action).mp3": "/static/media/9. Potion Pushas (Video Game : Fantasy Noir Action).2cd1999c5e77132cdf30.mp3",
     "static/media/DND+NRS+Album+Cover.png": "/static/media/DND+NRS+Album+Cover.e70b1346e49990e56dc7.png",
     "static/media/STL+DEMO+M10+At+Shit_s+End.mp3": "/static/media/STL+DEMO+M10+At+Shit_s+End.96bee73dd70b4062311a.mp3",
+    "static/media/Moonstruck.jpeg": "/static/media/Moonstruck.5e84f8c1118c2cef2ef5.jpeg",
     "static/media/SHP_Soundtrack_Preview_v2.mp3": "/static/media/SHP_Soundtrack_Preview_v2.20648f3b24e23cef2e64.mp3",
     "static/media/PTPS Soundtrack Audio Preview v1.mp3": "/static/media/PTPS Soundtrack Audio Preview v1.838e996d85b8cab98e1a.mp3",
     "static/media/back.jpg": "/static/media/back.032d9fea183bc61d07e1.jpg",
     "static/media/PTPS Album Cover.png": "/static/media/PTPS Album Cover.354f9f87e1ce9f0d64f5.png",
+    "static/media/Avengers Campus.jpg": "/static/media/Avengers Campus.43f5794f879921c7f10b.jpg",
     "static/media/DND+ELM+Album+Cover.jpeg": "/static/media/DND+ELM+Album+Cover.b4b238a49e8ac02fe86e.jpeg",
     "static/media/marc_yu.jpeg": "/static/media/marc_yu.2aa35e4a782d9a8ef23a.jpeg",
+    "static/media/Ridley Jones.jpg": "/static/media/Ridley Jones.7ec38395cf85976de0d9.jpg",
+    "static/media/Through the Interface.jpg": "/static/media/Through the Interface.8d4e083392572c23be6d.jpg",
+    "static/media/Alistair.jpg": "/static/media/Alistair.d06197f13b740ece8ee3.jpg",
     "static/media/BXR+Album+Cover.jpg": "/static/media/BXR+Album+Cover.af8d71a4f48ce2ee8ad1.jpg",
     "static/media/HMT+Album+Cover.jpg": "/static/media/HMT+Album+Cover.52227f2f4c23d42902ca.jpg",
+    "static/media/A Paris Proposal.jpg": "/static/media/A Paris Proposal.4aeda5505f08e1104450.jpg",
+    "static/media/Ceiba Y Sus Raíces Taínas.jpg": "/static/media/Ceiba Y Sus Raíces Taínas.7b7c151e273df42dc5c3.jpg",
     "static/media/shp.jpeg": "/static/media/shp.72e2f774a4ec01b9df86.jpeg",
     "static/media/Apple_Music_Icon_blk_sm_073120.svg": "/static/media/Apple_Music_Icon_blk_sm_073120.84c25dd7f303dfc2ede9fcbe5368bf72.svg",
     "static/media/Apple_Music_Icon_wht_sm_073120.svg": "/static/media/Apple_Music_Icon_wht_sm_073120.04c837e40d39d7d0401ee363db8dd398.svg",
     "index.html": "/index.html",
-    "main.f5818777.css.map": "/static/css/main.f5818777.css.map",
-    "main.3c7f571f.js.map": "/static/js/main.3c7f571f.js.map"
+    "main.95c579b6.css.map": "/static/css/main.95c579b6.css.map",
+    "main.968b743c.js.map": "/static/js/main.968b743c.js.map"
   },
   "entrypoints": [
-    "static/css/main.f5818777.css",
-    "static/js/main.3c7f571f.js"
+    "static/css/main.95c579b6.css",
+    "static/js/main.968b743c.js"
   ]
 }
