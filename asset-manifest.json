@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.9c507311.css",
-    "main.js": "/static/js/main.07745ecd.js",
+    "main.js": "/static/js/main.2932527d.js",
     "static/media/Stalling.png": "/static/media/Stalling.7e0bfbd48c3e5757a824.png",
     "static/media/1. A Bard's Tale (Library Music : Viking Metal, Action).wav": "/static/media/1. A Bard's Tale (Library Music : Viking Metal, Action).144d34d49f055c7ceea1.wav",
     "static/media/PTPS ST04v1 M04v2 Wizard HQ Level.wav": "/static/media/PTPS ST04v1 M04v2 Wizard HQ Level.8852c8823f6395026a0a.wav",
@@ -41,16 +41,16 @@
     "static/media/BXR+Album+Cover.jpg": "/static/media/BXR+Album+Cover.af8d71a4f48ce2ee8ad1.jpg",
     "static/media/HMT+Album+Cover.jpg": "/static/media/HMT+Album+Cover.52227f2f4c23d42902ca.jpg",
     "static/media/A Paris Proposal.jpg": "/static/media/A Paris Proposal.4aeda5505f08e1104450.jpg",
-    "static/media/Ceiba Y Sus Raíces Taínas.jpg": "/static/media/Ceiba Y Sus Raíces Taínas.7b7c151e273df42dc5c3.jpg",
+    "static/media/Ceiba Y Sus Raíces Taínas.jpg": "/static/media/Ceiba Y Sus Raíces Taínas.7b7c151e273df42dc5c3.jpg",
     "static/media/shp.jpeg": "/static/media/shp.72e2f774a4ec01b9df86.jpeg",
     "static/media/Apple_Music_Icon_blk_sm_073120.svg": "/static/media/Apple_Music_Icon_blk_sm_073120.84c25dd7f303dfc2ede9fcbe5368bf72.svg",
     "static/media/Apple_Music_Icon_wht_sm_073120.svg": "/static/media/Apple_Music_Icon_wht_sm_073120.04c837e40d39d7d0401ee363db8dd398.svg",
     "index.html": "/index.html",
     "main.9c507311.css.map": "/static/css/main.9c507311.css.map",
-    "main.07745ecd.js.map": "/static/js/main.07745ecd.js.map"
+    "main.2932527d.js.map": "/static/js/main.2932527d.js.map"
   },
   "entrypoints": [
     "static/css/main.9c507311.css",
-    "static/js/main.07745ecd.js"
+    "static/js/main.2932527d.js"
   ]
 }
