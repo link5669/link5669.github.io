@@ -1,0 +1,13 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Angelica Ramos
+N:Ramos;Angelica;;;
+item1.EMAIL;TYPE=INTERNET:angelica@wavyrn.com
+item1.X-ABLabel:
+ORG:Wavyrn
+TITLE:Studio Assistant
+item2.URL:https\://wavyrn.com
+item2.X-ABLabel:
+NOTE:Socials: @WavyrnAudio\nInstagram: @athena.anne\nDiscord: @athena15
+CATEGORIES:myContacts
+END:VCARD

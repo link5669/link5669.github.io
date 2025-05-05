@@ -1,0 +1,15 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Josh Trochet
+N:Trochet;Josh;;;
+item1.EMAIL;TYPE=INTERNET:josh@wavyrn.com
+item1.X-ABLabel:
+item2.TEL:(617) 807-0674
+item2.X-ABLabel:
+ORG:Wavyrn
+TITLE:Voice Actor
+item3.URL:https\://wavyrn.com
+item3.X-ABLabel:
+NOTE:Socials: @WavyrnAudio
+CATEGORIES:myContacts
+END:VCARD

@@ -1,0 +1,13 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Caleb Skelly
+N:Skelly;Caleb;;;
+item1.EMAIL;TYPE=INTERNET:caleb@wavyrn.com
+item1.X-ABLabel:
+ORG:Wavyrn
+TITLE:Sound Designer\, VO Producer
+item2.URL:https\://wavyrn.com
+item2.X-ABLabel:
+NOTE:Socials: @WavyrnAudio\nTwitter/X: @trisoundworks
+CATEGORIES:myContacts
+END:VCARD

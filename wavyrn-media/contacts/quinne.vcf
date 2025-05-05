@@ -1,0 +1,18 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Quinne Houck
+N:Houck;Quinne;;;
+item1.EMAIL;TYPE=INTERNET:quinne@wavyrn.com
+item1.X-ABLabel:
+item2.TEL:(626) 379-0179
+item2.X-ABLabel:
+ORG:Wavyrn
+TITLE:Studio Assistant
+item3.URL:https\://wavyrn.com
+item3.X-ABLabel:
+item4.URL:https\://enbeatsu.wixsite.com/enbeatsu
+item4.X-ABLabel:
+NOTE:Socials: @WavyrnAudio\nBluesky: @enbeatsu.on.computer\nInstagram: @enb
+ eatsu
+CATEGORIES:myContacts
+END:VCARD

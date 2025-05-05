@@ -1,0 +1,15 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Max Jaime
+N:Jaime;Max;;;
+item1.EMAIL;TYPE=INTERNET:max@wavyrn.com
+item1.X-ABLabel:
+ORG:Wavyrn
+TITLE:Sound Designer\, Composer\, Mixing Engineer
+item2.URL:https\://wavyrn.com
+item2.X-ABLabel:
+item3.URL:https\://maxjaimemusic.com
+item3.X-ABLabel:
+NOTE:Socials: @WavyrnAudio\nInstagram: @maxjaime2000
+CATEGORIES:myContacts
+END:VCARD

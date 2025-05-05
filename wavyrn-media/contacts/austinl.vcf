@@ -1,0 +1,15 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Austin Leshock
+N:Leshock;Austin;;;
+item1.EMAIL;TYPE=INTERNET:austinl@wavyrn.com
+item1.X-ABLabel:
+item2.TEL:(302) 409-1997
+item2.X-ABLabel:
+ORG:Wavyrn
+TITLE:Composer\, Mixing Engineer
+item3.URL:https\://wavyrn.com
+item3.X-ABLabel:
+NOTE:Socials: @WavyrnAudio\nInstagram: @au_shock
+CATEGORIES:myContacts
+END:VCARD

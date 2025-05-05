@@ -1,0 +1,23 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Julian Cabrera
+N:Cabrera;Julian;;;
+item1.EMAIL;TYPE=INTERNET:julian@wavyrn.com
+item1.X-ABLabel:
+item2.TEL:(786) 294-7549
+item2.X-ABLabel:
+ORG:Wavyrn
+TITLE:Sound Designer\, Composer
+item3.URL:https\://wavyrn.com
+item3.X-ABLabel:
+item4.URL:https\://juliancabreraaudio.com
+item4.X-ABLabel:
+item5.URL:https\://open.spotify.com/artist/63UQsOWN6AgVnkKMRpymNJ?si=l4T1g9
+ goQI222wZRCaUqrw
+item5.X-ABLabel:Spotify
+item6.URL:https\://soundcloud.com/supermonzee
+item6.X-ABLabel:Soundcloud
+NOTE:Socials: @WavyrnAudio\nInstagram: @super_monzee\nDiscord: @super_monze
+ e
+CATEGORIES:myContacts
+END:VCARD

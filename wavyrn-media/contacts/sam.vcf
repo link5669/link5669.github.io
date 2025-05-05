@@ -1,0 +1,15 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Sam Rindfuss
+N:Rindfuss;Sam;;;
+item1.EMAIL;TYPE=INTERNET:sam@wavyrn.com
+item1.X-ABLabel:
+item2.TEL:(469) 994-4514
+item2.X-ABLabel:
+ORG:Wavyrn
+TITLE:Voice Actor
+item3.URL:https\://wavyrn.com
+item3.X-ABLabel:
+NOTE:Socials: @WavyrnAudio\nInstagram: @samleighsings
+CATEGORIES:myContacts
+END:VCARD
